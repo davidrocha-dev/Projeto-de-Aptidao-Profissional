@@ -1,0 +1,1386 @@
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.Login.resources
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.Register.resources
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.pdb
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\David\source\repos\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\XamlC.stamp
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+C:\Users\David\source\repos\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10112020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10252020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10282020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\10312020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\11062020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\12022020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\12172020 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\09012021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI2.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Guna.UI2.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01172021 - Trading Journal - Copy\PAP\PAP\obj\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Download.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01182021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+E:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01252021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\01302021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02042021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\02232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03152021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+X:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\03192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Account.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Home.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Login.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Main.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Register.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Stats.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\PAP.exe.config
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\PAP.exe
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\PAP.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Guna.UI.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\XamlC.stamp
+F:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04072021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04092021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04102021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04132021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04142021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04162021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04192021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04202021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04212021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+D:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04232021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04262021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - Cópia\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04282021 - Trading Journal - 2\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\04292021 - Trading Journal\PAP\PAP\obj\Debug\PAP.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Guna.UI.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Platform.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Core.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csprojAssemblyReference.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Account.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Image.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Change_Password.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Confirm_Logout.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Deposit_Withdraw.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Home.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.HomeForm.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Login.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Main.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.New_Trade.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Register.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.Stats_DW.resources
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\XamlC.stamp
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\PAP.csproj.CopyComplete
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Trading Journal.exe.config
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Trading Journal.exe.manifest
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Trading Journal.application
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Trading Journal.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\bin\Debug\Trading Journal.pdb
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\Trading Journal.exe.manifest
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\Trading Journal.application
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\Trading Journal.exe
+S:\01 - David Rocha - Trading Journal\Projeto\Projetos\2021\05122021 - Trading Journal\PAP\PAP\obj\Debug\Trading Journal.pdb
